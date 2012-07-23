@@ -1,0 +1,8 @@
+[
+	{ "keys": ["alt+command+ctrl+c"], "command": "copy_path"},
+	{ "keys": ["ctrl+command+v"], "command": "paste"},
+	{ "keys": ["command+v"], "command": "paste_and_indent"},
+  { "keys": ["alt+command+s"], "command": "save_all"},
+  { "keys": ["command+shift+t"], "command": "open_recent_file", "args": {"index": 0 }},
+  { "keys": ["ctrl+command+r"], "command": "reveal_in_side_bar"}
+]

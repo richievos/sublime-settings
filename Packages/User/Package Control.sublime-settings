@@ -1,0 +1,26 @@
+{
+	"auto_upgrade_last_run": 1342801014,
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"CTags",
+		"Cucumber",
+		"ERB Insert and Toggle Commands",
+		"FileDiffs",
+		"Format SQL",
+		"Gist",
+		"Git",
+		"Haml",
+		"Markdown Preview",
+		"Open Recent Files",
+		"Package Control",
+		"Pretty JSON",
+		"RSpec",
+		"RSpec (snippets and syntax)",
+		"RubyTest",
+		"SublimeREPL",
+		"Theme - Soda",
+		"TrailingSpaces"
+	]
+}
